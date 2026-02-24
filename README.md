@@ -2,6 +2,10 @@
 
 Personal reference guide compiled for senior-level security interviews.
 
+## Usage
+
+Open **` https://sai-deepak-mangipudi.github.io/Security-Notes-From-My-9-Years-of-Experience/Security-Reference-Guide.html`** in any browser - works offline.
+
 ## Roles Covered
 - Threat Hunter
 - Detection Engineer
@@ -22,9 +26,7 @@ Personal reference guide compiled for senior-level security interviews.
 | Detection Engineering | Sigma rules, alert design, false positive reduction |
 | Python Automation | Log parsing, API integrations, forensics scripts |
 
-## Usage
 
-Open **`Security-Reference-Guide.html`** in any browser - works offline.
 
 Features:
 - Dark theme
